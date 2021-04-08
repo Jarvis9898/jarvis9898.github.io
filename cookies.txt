@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shirali238.wixsite.com	TRUE	/portfolio	FALSE	1999999999	svSession	fd165a69853634add6db03cffa5231b6164e0ab67b41339816102462685f7a8c710fc95c9c8d3f66f6ff40fda2c7f58e1e60994d53964e647acf431e4f798bcd0e5823669ac2d94bd90e6aca83fab57c5fb9e0b967a4489890120133d8783ce3
+shirali238.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1617856130|gWVWPRgj1k8M
+.wixsite.com	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1617856130|gWVWPRgj1k8M
+shirali238.wixsite.com	TRUE	/	FALSE	1999999999	hs	2021058591
+shirali238.wixsite.com	TRUE	/	FALSE	1999999999	SameSite	None
+shirali238.wixsite.com	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=none"
+
